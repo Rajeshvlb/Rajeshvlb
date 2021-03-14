@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajesh
+- 👋 Hi, I’m <i>Rajesh<i>
 - 👀 I’m interested in Pentesting and Development!
 - 🌱 I’m currently learning Django React framework
 - 💞️ I’m looking to collaborate on enterprise level projects
