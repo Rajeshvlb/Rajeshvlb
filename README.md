@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <i>Rajesh</i>
-- 👀 I’m interested in Pentesting and Development!
+- 👀 I’m interested in <b><i>Pentesting and Development!</i></b>
 - 🌱 I’m currently learning Django React framework
 - 💞️ I’m looking to collaborate on enterprise level projects
 - 📫 How to reach me @hateofficial10@gmail.com
